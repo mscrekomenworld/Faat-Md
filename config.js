@@ -9,9 +9,9 @@ global.prems = []
 global.kontak = ['6282393267884']
 
 //  INFO BOT 
-global.naown = '༒𝑭𝑨𝑨𝑻𝑲𝑬𝑩𝑨𝑩༒'
+global.naown = 'FAATKEBAB'
 global.noown = '6282393267884'
-global.namebot = '꧁𝙁𝘼𝘼𝙏 𝘽𝙊𝙏꧂'
+global.namebot = 'FAATBOT'
 global.nobot = '19362605390'
 
 //  URL SOSMED
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = '꧁𝙁𝘼𝘼𝙏 𝘽𝙊𝙏꧂'
+global.wm = '꧁𝙁𝘼𝘼𝙏 𝘽𝙊𝙏'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙁𝘼𝘼𝙏 𝘽𝙊𝙏 '
-global.wm3 = '⫹⫺ 𝑭𝑨𝑨𝑻 𝑩𝑶𝑻 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙁𝘼𝘼𝙏 𝘽𝙊𝙏 '
+global.wm3 = '⫹⫺𝑭𝑨𝑨𝑻 𝑩𝑶𝑻 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
